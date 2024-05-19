@@ -11,7 +11,7 @@
 const sf::Time Application::TimePerFrame = sf::seconds(1.f / 60.f);
 
 Application::Application() :
-	mWindow(sf::VideoMode(256 * 4, 224 * 4), "Battle City"),
+	mWindow(sf::VideoMode(256 * 3, 224 * 3), "Battle City"),
 	mTextures(),
 	mFonts(),
 	mPlayers(),
