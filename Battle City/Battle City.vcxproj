@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{5cf58011-9ebe-45bd-835c-0a2a5bed2f12}</ProjectGuid>
-    <RootNamespace>BattleCity</RootNamespace>
+    <RootNamespace>Battle City</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
